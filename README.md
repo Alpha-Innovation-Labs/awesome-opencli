@@ -10,6 +10,8 @@
 <p>
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" height="28" alt="Awesome" /></a>
 &nbsp;&nbsp;
+<a href="https://github.com/Alpha-Innovation-Labs/awesome-opencli"><img src="https://awesome.re/mentioned-badge.svg" height="28" alt="Mentioned in Awesome OpenCLI" /></a>
+&nbsp;&nbsp;
 <a href="https://github.com/jackwener/opencli"><img src="https://img.shields.io/github/stars/jackwener/opencli?style=social" height="28" alt="OpenCLI Stars" /></a>
 </p>
 
