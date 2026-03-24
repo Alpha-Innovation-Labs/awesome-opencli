@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "nexus": {
+      "source": "alpha-innovation-labs/opennexus",
+      "sourceType": "github",
+      "computedHash": "ef85dfee58dfd80d261e0fe8b154033231b6bb5608021afb00d6d89eded817e5"
+    },
+    "software-enginering": {
+      "source": "alpha-innovation-labs/opennexus",
+      "sourceType": "github",
+      "computedHash": "b9c49fb18e06ffde20f59097a4100a9ff84a02c06d93c63d8910c9ee57bdf170"
+    }
+  }
+}
