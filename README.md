@@ -1,13 +1,48 @@
-# Awesome OpenCLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!-- HEADER -->
+<div align="center">
 
-A curated list of OpenCLI plugins, adapters, tools, and related resources.
+<br>
 
-## Contents
+<!-- TITLE -->
+<h1>Awesome OpenCLI</h1>
 
-- [Plugins](#plugins)
-- [Skills](#skills)
+<!-- BADGES -->
+<p>
+<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" height="28" alt="Awesome" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/jackwener/opencli"><img src="https://img.shields.io/github/stars/jackwener/opencli?style=social" height="28" alt="OpenCLI Stars" /></a>
+</p>
 
-## Plugins
+<br>
+
+<!-- DESCRIPTION -->
+<h3>A curated list of plugins, skills, tools, and resources for <a href="https://github.com/jackwener/opencli">OpenCLI</a>.</h3>
+<h3>Make any website, Electron App, or Local Tool your CLI.</h3>
+
+<br>
+
+[**OFFICIAL**](#official) • [**PLUGINS**](#plugins) • [**SKILLS**](#skills) • [**TOOLS**](#tools)
+
+<br>
+<hr>
+
+</div>
+
+<!-- CONTENT -->
+
+<div id="official"></div>
+
+<h3>⭐️ Official Repository</h3>
+
+| Project | Stars | Description |
+| :--- | :--- | :--- |
+| **[opencli](https://github.com/jackwener/opencli)** | ![Stars](https://badgen.net/github/stars/jackwener/opencli) | The official OpenCLI - Make any website, Electron App, or Local Tool your CLI. |
+
+<br>
+
+<div id="plugins"></div>
+
+<h3>🧩 Plugins</h3>
 
 - [`opencli-plugin-upwork`](https://github.com/Alpha-Innovation-Labs/opencli-plugin-upwork) - Search and read Upwork jobs with OpenCLI.
 - [`opencli-plugin-12306`](https://github.com/Hwenyi/opencli-plugin-12306) - OpenCLI plugin for 12306.
@@ -23,9 +58,25 @@ A curated list of OpenCLI plugins, adapters, tools, and related resources.
 - [`opencli-plugin-github-trending`](https://github.com/ByteYue/opencli-plugin-github-trending) - GitHub trending from the terminal.
 - [`opencli-plugin-data-diff`](https://github.com/ByteYue/opencli-plugin-data-diff) - Track command output changes between runs.
 
-## Skills
+<br>
+
+<div id="skills"></div>
+
+<h3>🛠️ Skills</h3>
 
 - [`opencli-skill`](https://github.com/joeseesun/opencli-skill) - Related OpenCLI ecosystem project.
+
+<br>
+
+<div id="tools"></div>
+
+<h3>🔧 Tools</h3>
+
+- [`opencli`](https://github.com/openclirun/opencli) - OpenCLI bridges the gap between raw MLX models and AI Agents.
+- [`opencli-admin`](https://github.com/xjh1994/opencli-admin) - Visual content collection and AI tagging system for sentiment monitoring.
+- [`deepfind-cli`](https://github.com/liuslevis/deepfind-cli) - Multi Agent Research using opencli.
+
+<br>
 
 ## Contributing
 
