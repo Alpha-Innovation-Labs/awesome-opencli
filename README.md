@@ -21,7 +21,7 @@
 
 <br>
 
-[**OFFICIAL**](#official) • [**PLUGINS**](#plugins) • [**SKILLS**](#skills) • [**TOOLS**](#tools)
+[**OFFICIAL**](#official) • [**PLUGINS**](#plugins) • [**SKILLS**](#skills) • [**APPS**](#apps)
 
 <br>
 <hr>
@@ -68,11 +68,10 @@
 
 <br>
 
-<div id="tools"></div>
+<div id="apps"></div>
 
-<h3>🔧 Tools</h3>
+<h3>🚀 Apps</h3>
 
-- [`opencli`](https://github.com/openclirun/opencli) - OpenCLI bridges the gap between raw MLX models and AI Agents.
 - [`opencli-admin`](https://github.com/xjh1994/opencli-admin) - Visual content collection and AI tagging system for sentiment monitoring.
 - [`deepfind-cli`](https://github.com/liuslevis/deepfind-cli) - Multi Agent Research using opencli.
 
